@@ -1,0 +1,6 @@
+A funcionalidade de login via Firebase foi desativada.
+Para ativar basta descomentar os trechos de códigos segundo comentários nos arquivos e linhas abaixo:
+
+LoginActivity.java - Linhas 53 e 54
+DesktopActivity.java - Linhas 72 e 87
+
